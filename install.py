@@ -232,8 +232,8 @@ def modifyNginx():
 if __name__ == "__main__":
     printc("Xtream UI - Installer Mirror", col.OKGREEN, 2)
     print "%s â”‚ NOTE: this is a forked mirror of original installer from emre1393/xtream-ui.com %s" % (col.OKGREEN, col.ENDC)
-    print "%s â”‚ Paid Service On Telegram @lofertech & Youtube = LoferTech Official. %s" % (col.OKGREEN, col.ENDC)
-    print "%s â”‚ For more information visit lofertech.com %s" % (col.OKGREEN, col.ENDC)
+    print "%s â”‚ Paid Service On whatsapp @Sabir ali & Youtube = LoferTech Official. %s" % (col.OKGREEN, col.ENDC)
+    print "%s â”‚ For more information visit xtreamui.xyz %s" % (col.OKGREEN, col.ENDC)
     print " "
     rType = raw_input("  Installation Type [MAIN, LB, UPDATE]: ")
     print " "
